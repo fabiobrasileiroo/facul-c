@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/fabiopc/facul-C",
-      "program": "/home/fabiopc/facul-C/build/Debug/outDebug",
+      "cwd": "/home/fabiopc/facul-C/facul-c",
+      "program": "/home/fabiopc/facul-C/facul-c/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
